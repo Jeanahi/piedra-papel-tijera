@@ -1,0 +1,5 @@
+gano el usuario . 
+empate,ambos ganaron . 
+gano el usuario . 
+empate,ambos ganaron . 
+empate,ambos ganaron . 
